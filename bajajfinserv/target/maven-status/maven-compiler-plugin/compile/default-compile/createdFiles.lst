@@ -1,0 +1,4 @@
+com\johndoe\bajajfinserv\dto\WebhookRequest.class
+com\johndoe\bajajfinserv\BajajfinservApplication.class
+com\johndoe\bajajfinserv\dto\SolutionRequest.class
+com\johndoe\bajajfinserv\dto\WebhookResponse.class
